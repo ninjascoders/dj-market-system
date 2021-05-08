@@ -1,0 +1,6 @@
+market/applications/home/migrations/*
+market/applications/caja/migrations/*
+market/applications/producto/migrations/*
+market/applications/users/migrations/*
+market/applications/venta/migrations/*
+djmarket-env/
